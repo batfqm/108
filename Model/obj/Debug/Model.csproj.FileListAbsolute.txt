@@ -1,0 +1,4 @@
+E:\C&C++\workspace\2019test\108\Model\bin\Debug\Model.dll
+E:\C&C++\workspace\2019test\108\Model\bin\Debug\Model.pdb
+E:\C&C++\workspace\2019test\108\Model\obj\Debug\Model.dll
+E:\C&C++\workspace\2019test\108\Model\obj\Debug\Model.pdb
